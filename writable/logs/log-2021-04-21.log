@@ -1,0 +1,56 @@
+CRITICAL - 2021-04-21 08:44:46 --> Cannot call constructor
+#0 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(908): App\Controllers\Questions->__construct()
+#1 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#2 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/kossick/Documents/SiBe/SiBe_practise_backend/public/index.php(55): CodeIgniter\CodeIgniter->run()
+#4 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/kossick/D...')
+#5 {main}
+CRITICAL - 2021-04-21 08:44:54 --> Cannot call constructor
+#0 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(908): App\Controllers\Questions->__construct()
+#1 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#2 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/kossick/Documents/SiBe/SiBe_practise_backend/public/index.php(55): CodeIgniter\CodeIgniter->run()
+#4 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/kossick/D...')
+#5 {main}
+CRITICAL - 2021-04-21 08:44:59 --> Cannot call constructor
+#0 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(908): App\Controllers\Questions->__construct()
+#1 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#2 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/kossick/Documents/SiBe/SiBe_practise_backend/public/index.php(55): CodeIgniter\CodeIgniter->run()
+#4 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/kossick/D...')
+#5 {main}
+CRITICAL - 2021-04-21 08:45:04 --> Cannot call constructor
+#0 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(908): App\Controllers\Questions->__construct()
+#1 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#2 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/kossick/Documents/SiBe/SiBe_practise_backend/public/index.php(55): CodeIgniter\CodeIgniter->run()
+#4 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/kossick/D...')
+#5 {main}
+CRITICAL - 2021-04-21 08:53:04 --> Cannot call constructor
+#0 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(908): App\Controllers\Questions->__construct()
+#1 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#2 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/kossick/Documents/SiBe/SiBe_practise_backend/public/index.php(55): CodeIgniter\CodeIgniter->run()
+#4 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/kossick/D...')
+#5 {main}
+CRITICAL - 2021-04-21 08:53:37 --> Cannot call constructor
+#0 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(908): App\Controllers\Questions->__construct()
+#1 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#2 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/kossick/Documents/SiBe/SiBe_practise_backend/public/index.php(55): CodeIgniter\CodeIgniter->run()
+#4 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/kossick/D...')
+#5 {main}
+CRITICAL - 2021-04-21 08:54:18 --> Cannot call constructor
+#0 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(908): App\Controllers\Questions->__construct()
+#1 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#2 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/kossick/Documents/SiBe/SiBe_practise_backend/public/index.php(55): CodeIgniter\CodeIgniter->run()
+#4 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/kossick/D...')
+#5 {main}
+CRITICAL - 2021-04-21 08:54:47 --> Cannot call constructor
+#0 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(908): App\Controllers\Questions->__construct()
+#1 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#2 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/kossick/Documents/SiBe/SiBe_practise_backend/public/index.php(55): CodeIgniter\CodeIgniter->run()
+#4 /home/kossick/Documents/SiBe/SiBe_practise_backend/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/kossick/D...')
+#5 {main}

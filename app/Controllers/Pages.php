@@ -18,7 +18,7 @@ class Pages extends Controller
             'question' => 'Here\'s a question for ya...',
         ];
 
-        // TODO:
+        // TODO: include CI response trait
         header('Content-Type: application/json');
         echo json_encode($response);
         die();
