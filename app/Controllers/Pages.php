@@ -13,7 +13,7 @@ class Pages extends Controller
 
     public function view()
     {
-        
+        /* Test; ignore
         $response = [
             'question' => 'Here\'s a question for ya...',
         ];
@@ -21,7 +21,7 @@ class Pages extends Controller
         // TODO: include CI response trait
         header('Content-Type: application/json');
         echo json_encode($response);
-        die();
+        die(); */
     }
 
 

@@ -8,6 +8,12 @@ class QuestionModel extends Model
 {
     protected $table = 'questions';
 
+    protected $allowedFields = [
+        'answer'
+    ];
+
+    protected $primaryKey = 'item_id';
+
     public function getQuestions($id = false)
     { 
         if (! $id)
