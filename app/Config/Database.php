@@ -32,10 +32,10 @@ class Database extends Config
 	 */
 	public $default = [
 		'DSN'      => '',
-		'hostname' => 'localhost',
-		'username' => 'sibe_user',
-		'password' => 'sibe_pracT1se',
-		'database' => 'sibe_practise_database',
+		'hostname' => 'eu-cdbr-west-01.cleardb.com',
+		'username' => 'b971d6f8685f9a',
+		'password' => '501093c0',
+		'database' => 'heroku_5531eaa60f0732e',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => true,
@@ -58,10 +58,10 @@ class Database extends Config
 	 */
 	public $tests = [
 		'DSN'      => '',
-		'hostname' => '127.0.0.1',
-		'username' => '',
-		'password' => '',
-		'database' => ':memory:',
+		'hostname' => 'eu-cdbr-west-01.cleardb.com',
+		'username' => 'b971d6f8685f9a',
+		'password' => '501093c0',
+		'database' => 'heroku_5531eaa60f0732e',
 		'DBDriver' => 'SQLite3',
 		'DBPrefix' => 'db_',  // Needed to ensure we're working correctly with prefixes live. DO NOT REMOVE FOR CI DEVS
 		'pConnect' => false,
